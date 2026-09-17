@@ -29,6 +29,13 @@ date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
   - **Proyecto**: "A review on Moss Genus *Entodon* in North America"<br>
     * Revision taxonomica del genero *Entodon*, conocido por ser musgos pleurocarpicos creciendo en alfombras brillosas y aplastadas. Ademas se resolvio la identidad de lKa especie endemica *Entodon floridanus* la cual se coloco en sinonimia con *Entodon macropodus* 
     
+<hr style="border: 1px solid #ccc;">
+
+# Assignments
+
+## Practica assignment
+### [practicaassignment](assignments/assignmenttest.html)
+
 ```{r echo=FALSE, warning=FALSE}
 library(ggplot2)
 ```
