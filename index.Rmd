@@ -33,8 +33,8 @@ date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
 
 # Assignments
 
-## Practica assignment
-### [practicaassignment](assignments/assignmenttest.html)
+## R tutorials
+### [Rtutorial1](assignments/rtutorial1.html)
 
 ```{r echo=FALSE, warning=FALSE}
 library(ggplot2)

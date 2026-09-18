@@ -1,0 +1,43 @@
+---
+title: "Rtutorial1-jorge"
+output: html_document
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+---
+Rtutorial #1: 
+  Jorge Overstreet Santaliz
+  18/sep/26
+  
+```{r}
+height <- 175
+height
+```
+```{r}
+25 * 4 -10
+sqrt(81)
+message <- "R is fun!"
+message
+a <- 10
+b <- 5
+c <-  a + b
+c > 20
+class("hello World")
+
+```
+
+```{r, warning=FALSE}
+log(-1)
+```
+```{r, message=FALSE}
+library(dplyr)
+```
+```{r}
+grades <- c(80, 90, 75, 95, 85)
+class(grades)
+grades
+mean(grades)
+average <- mean(grades)
+average
+```
+
+Pense que necesitaba un chunk para cada ejercicio para que se vea lindo y separado, pero cuando estan juntas las funciones o ecuaciones se muestran separadas al darle knit. 
+
