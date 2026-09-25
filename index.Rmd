@@ -35,6 +35,7 @@ date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
 
 ## R tutorials
 ### [Rtutorial1](assignments/rtutorial1.html)
+### [Rtutorial2](assignments/rtutorial2.html)
 
 ```{r echo=FALSE, warning=FALSE}
 library(ggplot2)
