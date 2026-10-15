@@ -42,5 +42,10 @@ date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
 library(ggplot2)
 ```
 
+<hr style="border: 1px solid #ccc;">
+
+# Exams
+
+### [Midterm](assignments/midterm.html)
 <br><br>
 <br>
